@@ -13,7 +13,6 @@
 ---
 
 ### Useful Resources
-
 - **[Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/):**
   Progress: 22 out of 22 weeks completed
   ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=4caf50)
